@@ -6,9 +6,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
 
-|  #  | Title | Source Code | Article | Difficulty |
-| :-: | :---: | :---------: | :-----: | :--------: |
-
+<!-- |  #  | Title | Source Code | Article | Difficulty |
+| :-: | :---: | :---------: | :-----: | :--------: | -->
 
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/141.%20Linked%20List%20Cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/problems/linked-list-cycle/description/)|Easy|
 
