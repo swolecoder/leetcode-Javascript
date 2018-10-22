@@ -9,7 +9,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 <!-- |  #  | Title | Source Code | Article | Difficulty |
 | :-: | :---: | :---------: | :-----: | :--------: | -->
 
-|24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/141.%20Linked%20List%20Cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|
+|24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|
 
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/141.%20Linked%20List%20Cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/problems/linked-list-cycle/description/)|Easy|
 
