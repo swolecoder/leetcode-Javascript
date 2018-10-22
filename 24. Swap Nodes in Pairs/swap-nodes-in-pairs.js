@@ -20,7 +20,9 @@
  * @return {ListNode}
  */
 // Note: I looked at the tutorial https://www.youtube.com/watch?v=jiLloHVmLDc
+
 var swapPairs = function(head) {
+  debugger;
   while (head != null && head.next != null) {
     var temp = head.next.next;
     var next = head.next;
@@ -30,3 +32,18 @@ var swapPairs = function(head) {
   }
   return head;
 };
+
+let list = {
+  data: 1,
+  next: {
+    data: 1,
+    next: {
+      data: 3,
+      next: {
+        data: 4,
+        next: null
+      }
+    }
+  }
+};
+console.log(swapPairs(list));
