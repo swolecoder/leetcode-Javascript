@@ -22,3 +22,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |268| [Missing Number](https://leetcode.com/problems/missing-number/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/268.%20Missing%20Number/missing-number.js)|[:memo:](https://leetcode.com/problems/missing-number/description/)|Medium|
 
 |287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/287.%20Find%20the%20Duplicate%20Number/find-the-duplicate-number.js)|[:memo:](https://leetcode.com/problems/find-the-duplicate-number/description/)|Medium|
+
+|633| [Sum of square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/sum-of-square-numbers/description/)|Easy|
