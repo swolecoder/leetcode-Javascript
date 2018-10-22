@@ -9,7 +9,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 <!-- |  #  | Title | Source Code | Article | Difficulty |
 | :-: | :---: | :---------: | :-----: | :--------: | -->
 
-|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/add-two-numbers/description/)|Medium|
+|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/add-two-numbers/description/)|Medium|
 
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|
 
