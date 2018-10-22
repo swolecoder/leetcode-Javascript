@@ -13,6 +13,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|
 
+|61| [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/rotate-list/description/)|Medium|
+
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/141.%20Linked%20List%20Cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/problems/linked-list-cycle/description/)|Easy|
 
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/tree/master/142.%20Linked%20List%20Cycle%20II)|[:memo:](https://leetcode.com/problems/linked-list-cycle-ii/description/)|Medium|
