@@ -10,35 +10,48 @@
  * @param {number} k
  * @return {ListNode}
  */
+
+//Hints:
+// So the code has three parts.
+// 1. Get the length
+// 2. Move to the (length-k%length)th node
+// 3)Do the rotation
+
 var rotateRight = function(head, k) {
-  //     Hints:
-  // So the code has three parts.
-  // 1. Get the length
-  // 2. Move to the (length-k%length)th node
-  // 3)Do the rotation
+  if (!head) return head;
 
-  let fast = head;
-  let slow = head;
-  let dummy = new ListNode(0);
-  dummy.next = head;
-  let length = 0;
+  let length = len(head);
 
-  //Get the length
-  for (let i = 0; fast.next !== null; i++) {
-    length++;
-    fast = fast.next;
+  k = k % length;
+
+  for (let i = 0; i < k; i++) {
+    head = moveRight1Step(head);
   }
-
-  // Move slow length-k%length steps
-  for (let j = 0; j < length - (k % length); j++) {
-    slow = slow.next;
-  }
-
-  //do rotation
-
-  fast.next = dummy.next;
-  dummy.next = slow.next;
-  slow.next = null;
-
-  return dummy.next;
+  return head;
 };
+
+function moveRight1Step(head) {
+  let pre = head;
+  let current = head;
+  while (current && current.next !== null) {
+    pre = current;
+    current = current.next;
+  }
+
+  current.next = head;
+  head = current;
+  pre.next = null;
+
+  return head;
+}
+
+function len(head) {
+  if (!head) return 0;
+  let leng = 1;
+  let current = head;
+  while (current.next) {
+    leng++;
+    current = current.next;
+  }
+  return leng;
+}
