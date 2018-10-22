@@ -21,7 +21,7 @@
  */
 // Note: I looked at the tutorial https://www.youtube.com/watch?v=jiLloHVmLDc
 var swapPairs = function(head) {
-  if (head != null && head.next != null) {
+  while (head != null && head.next != null) {
     var temp = head.next.next;
     var next = head.next;
     next.next = head;
