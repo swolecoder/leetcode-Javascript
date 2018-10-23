@@ -10,7 +10,7 @@
  * @return {number[]}
  */
 var inorderTraversal = function(root) {
-  if (!root) return null;
+  if (!root) return [];
   let result = [];
   function traverse(root) {
     if (root.left) traverse(root.left);
