@@ -23,7 +23,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/tree/master/142.%20Linked%20List%20Cycle%20II)|[:memo:](https://leetcode.com/problems/linked-list-cycle-ii/description/)|Medium|
 
-|144| [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/tree/master/142.%20Linked%20List%20Cycle%20II)|[:memo:](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|Medium|
+|144| [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/144.%20Binary%20Tree%20Preorder%20Traversal/binary-tree-preorder-traversal.js)|[:memo:](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|Medium|
 
 |160| [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.js)|[:memo:](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|
 
