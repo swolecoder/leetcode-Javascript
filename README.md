@@ -17,6 +17,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |61| [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/rotate-list/description/)|Medium|
 
+|61| [Rotate List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|Easy|
+
 |94| [Binary Tree Order Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js)|[:memo:](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|Medium|
 
 |141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/141.%20Linked%20List%20Cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/problems/linked-list-cycle/description/)|Easy|
