@@ -19,7 +19,6 @@ var judgeSquareSum = function(c) {
   let aMax = Math.sqrt(c / 2);
   for (let a = 0; a < aMax; a++) {
     let b = Math.sqrt(c - a * a);
-
     if (b === Math.round(b)) {
       return true;
     }
