@@ -29,7 +29,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |160| [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.js)|[:memo:](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|
 
-|206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/234.%20Palindrome%20Linked%20List/palindrome-linked-list.js)|[:memo:](https://leetcode.com/problems/reverse-linked-list/description/)|Easy|
+|206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/206.%20Reverse%20Linked%20List/reverse-linkied-list.js)|[:memo:](https://leetcode.com/problems/reverse-linked-list/description/)|Easy|
 
 |234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/234.%20Palindrome%20Linked%20List/palindrome-linked-list.js)|[:memo:](https://leetcode.com/problems/palindrome-linked-list/description/)|Medium|
 
