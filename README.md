@@ -33,7 +33,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/234.%20Palindrome%20Linked%20List/palindrome-linked-list.js)|[:memo:](https://leetcode.com/problems/palindrome-linked-list/description/)|Medium|
 
-|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/206.%20Reverse%20Linked%20List/reverse-linkied-list.js)|[:memo:](https://leetcode.com/problems/valid-anagram/description/)|Easy|
+|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/242.%20Valid%20Anagram/valid-anagram.js)|[:memo:](https://leetcode.com/problems/valid-anagram/description/)|Easy|
 
 |268| [Missing Number](https://leetcode.com/problems/missing-number/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/268.%20Missing%20Number/missing-number.js)|[:memo:](https://leetcode.com/problems/missing-number/description/)|Medium|
 
