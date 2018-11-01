@@ -44,3 +44,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |367| [Valid Perfect Square](hhttps://leetcode.com/problems/valid-perfect-square/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/367.%20Valid%20Perfect%20Square/valid-perfect-square.js)|[:memo:](https://leetcode.com/problems/valid-perfect-square/description/)|Easy|
 
 |633| [Sum of square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
+
+|867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/transpose-matrix/description/)|Easy|
