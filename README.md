@@ -17,6 +17,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |61| [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/rotate-list/description/)|Medium|
 
+|74| [Word Search](https://leetcode.com/problems/word-search/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/word-search/description/)|Medium|
+
 |83| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-sorted-list.js)|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|Easy|
 
 |94| [Binary Tree Order Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js)|[:memo:](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|Medium|
