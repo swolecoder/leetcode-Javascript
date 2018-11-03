@@ -33,7 +33,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |160| [intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists/intersection-of-two-linked-lists.js)|[:memo:](https://leetcode.com/problems/isomorphic-strings/description/)|Easy|
 
-|205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/206.%20Reverse%20Linked%20List/reverse-linkied-list.js)|[:memo:](https://leetcode.com/problems/reverse-linked-list/description/)|Easy|
+|205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/205.%20Isomorphic%20Strings/isomorphic-strings.js)|[:memo:](https://leetcode.com/problems/reverse-linked-list/description/)|Easy|
 
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/206.%20Reverse%20Linked%20List/reverse-linkied-list.js)|[:memo:](https://leetcode.com/problems/reverse-linked-list/description/)|Easy|
 
