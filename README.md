@@ -15,7 +15,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |24| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|
 
-|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List/remove-duplicates-sorted-list.js)|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|Easy|
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|Easy|
 
 |61| [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/rotate-list/description/)|Medium|
 
