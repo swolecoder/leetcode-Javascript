@@ -49,6 +49,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |367| [Valid Perfect Square](hhttps://leetcode.com/problems/valid-perfect-square/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/367.%20Valid%20Perfect%20Square/valid-perfect-square.js)|[:memo:](https://leetcode.com/problems/valid-perfect-square/description/)|Easy|
 
+|387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/367.%20Valid%20Perfect%20Square/valid-perfect-square.js)|[:memo:](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|Easy|
+
 |561| [Array Partition 1](https://leetcode.com/problems/array-partition-i/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/561.%20Array%20Partition%20I/array-partition.js)|[:memo:](https://leetcode.com/problems/array-partition-i/description/)|Easy|
 
 |633| [Sum of square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
