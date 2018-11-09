@@ -17,7 +17,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array)|[:memo:](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|Easy|
 
-|54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swap-nodes-in-pairs.js)|[:memo:](https://leetcode.com/problems/spiral-matrix/description/)|Medium|
+|54| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/54.%20Spiral%20Matrix/spiral-matrix.js)|[:memo:](https://leetcode.com/problems/spiral-matrix/description/)|Medium|
 
 |61| [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/rotate-list/description/)|Medium|
 
