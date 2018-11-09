@@ -13,32 +13,29 @@ var spiralOrder = function(matrix) {
   let last_column = matrix[0].length - 1;
   let last_row = matrix.length - 1;
   while (k <= last_row && l <= last_column) {
-    //         print first row
+    // print first row
     for (let i = l; i <= last_column; i++) {
       ans.push(matrix[k][i]);
     }
     k++;
 
-    //         print last column
+    // print last column
     for (let i = k; i <= last_row; i++) {
       ans.push(matrix[i][last_column]);
     }
 
     last_column--;
 
-    //
     if (k <= last_row) {
-      //         print last row;
-
+      // print last row;
       for (let i = last_column; i >= l; i--) {
         ans.push(matrix[last_row][i]);
       }
-
       last_row--;
     }
 
     if (l <= last_column) {
-      //         print first column
+      //  print first column
       for (let i = last_row; i >= k; i--) {
         ans.push(matrix[i][l]);
       }
