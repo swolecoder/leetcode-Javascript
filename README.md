@@ -53,7 +53,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |290| [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/290.%20Word%20Pattern/word-pattern.js)|[:memo:](https://leetcode.com/problems/word-pattern/description/)|Easy|
 
-|344| [Reverse String](https://leetcode.com/problems/reverse-string) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/367.%20Valid%20Perfect%20Square/valid-perfect-square.js)|[:memo:](https://leetcode.com/problems/reverse-string)|Easy|
+|344| [Reverse String](https://leetcode.com/problems/reverse-string) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/344.%20Reverse%20String/reverse-string.js)|[:memo:](https://leetcode.com/problems/reverse-string)|Easy|
 
 |367| [Valid Perfect Square](hhttps://leetcode.com/problems/valid-perfect-square/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/367.%20Valid%20Perfect%20Square/valid-perfect-square.js)|[:memo:](https://leetcode.com/problems/valid-perfect-square/description/)|Easy|
 
