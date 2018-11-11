@@ -65,4 +65,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/724.%20Find%20Pivot%20Index/find-pivot-index.js)|[:memo:](https://leetcode.com/problems/find-pivot-index/)|Easy|
 
+|747| [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/724.%20Find%20Pivot%20Index/find-pivot-index.js)|[:memo:](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|Easy|
+
 |867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/867.%20Transpose%20Matrix/transpose-matrix.js)|[:memo:](https://leetcode.com/problems/transpose-matrix/description/)|Easy|
