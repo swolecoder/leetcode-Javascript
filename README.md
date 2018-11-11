@@ -63,4 +63,6 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |633| [Sum of square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
 
+|724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/problems/find-pivot-index/)|Easy|
+
 |867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/867.%20Transpose%20Matrix/transpose-matrix.js)|[:memo:](https://leetcode.com/problems/transpose-matrix/description/)|Easy|
