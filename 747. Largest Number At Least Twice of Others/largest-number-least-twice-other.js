@@ -11,9 +11,9 @@ var dominantIndex = function(nums) {
     }
   }
 
-  //     loop throigh the entire array
-  for (let i = 0; i <= nums.length; i++) {
-    if (maxIndex != i && nums[maxIndex] < 2 ** nums[i]) {
+  //     loop throigh the entre array
+  for (let i = 0; i < nums.length; i++) {
+    if (maxIndex != i && 2 * nums[i] > nums[maxIndex]) {
       return -1;
     }
   }
