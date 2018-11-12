@@ -27,7 +27,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |94| [Binary Tree Order Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/94.%20Binary%20Tree%20Inorder%20Traversal/binary-tree-inorder-traversal.js)|[:memo:](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|Medium|
 
-|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/binary-level-tree-traversal.js)|[:memo:](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|
+|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree/maxium-depth-bnary-tree.js)|[:memo:](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|
 
 |107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/binary-level-tree-traversal.js)|[:memo:](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|Easy|
 
