@@ -19,7 +19,7 @@ var isValid = function(s) {
         return false;
       }
     }
-  }3
+  }
 
   // Stack should be empty by now.
   if (stack.length != 0) return false;
