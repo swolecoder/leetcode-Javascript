@@ -67,6 +67,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/%20387.%20First%20Unique%20Character%20in%20a%20String/first-unique-characters.js)|[:memo:](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|Easy|
 
+|448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|
+
 |561| [Array Partition 1](https://leetcode.com/problems/array-partition-i/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/561.%20Array%20Partition%20I/array-partition.js)|[:memo:](https://leetcode.com/problems/array-partition-i/description/)|Easy|
 
 |633| [Sum of square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/2.%20Add%20Two%20Numbers/add-two-numbers.js)|[:memo:](https://leetcode.com/articles/sum-of-square-numbers/)|Easy|
