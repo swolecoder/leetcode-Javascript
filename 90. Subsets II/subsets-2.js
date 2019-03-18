@@ -10,8 +10,6 @@ var subsetsWithDup = function(nums) {
 
   nums.sort();
 
-  const set = new Set();
-
   nums.forEach(z => {
     let i = 0;
     let length = result.length;
@@ -33,3 +31,21 @@ var subsetsWithDup = function(nums) {
 
   return result;
 };
+
+
+/*
+
+[]
+
+Number:[1,2,3]
+
+[[],[1]]
+
+[[],[1],[2],[1,2]]
+
+
+
+
+
+
+*/
