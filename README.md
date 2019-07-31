@@ -84,3 +84,5 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |747| [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others/largest-number-least-twice-other.js)|[:memo:](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|Easy|
 
 |867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [javascript](https://github.com/swolecoder/leetcode-Javascript/blob/master/867.%20Transpose%20Matrix/transpose-matrix.js)|[:memo:](https://leetcode.com/problems/transpose-matrix/description/)|Easy|
+
+|997| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [javascript]()|[:memo:](https://leetcode.com/problems/find-the-town-judge/)|Easy|
